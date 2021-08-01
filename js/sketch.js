@@ -202,7 +202,6 @@ if(score>=5){
   dose2Group.setLifetimeEach(-1);
   virusGroup.setLifetimeEach(-1); 
   reStart.addImage(restart);
-  vaccinecollected.play();
 }
 
 if(life>=2){
